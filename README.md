@@ -21,10 +21,8 @@ at a given point in time.
 **[3D Shop](https://github.com/f-vojnovski/3d-shop)** — a marketplace for 3D models with
 in-browser previews, built on React Three Fiber and Laravel.
 
-At game jams I program and also write the music:
-[Call of Bubble](https://github.com/dstojkoski/ggj) (Global Game Jam 2025, lead programmer,
-audio engineer and composer) and [Ghost Game](https://github.com/limepixl/GhostGame)
-(Global Game Jam 2024).
+**[Call of Bubble](https://github.com/dstojkoski/ggj)** — a Unity FPS built for Global Game
+Jam 2025, where I was lead programmer as well as audio engineer and composer.
 
 ### Working with
 
