@@ -36,7 +36,7 @@ Jam 2025. I worked on it as a developer and wrote the music.
 
 ### Demos
 
-Smaller pieces built to exercise a specific stack end to end.
+Smaller builds that wire one stack together end to end.
 
 **[BMI App](https://github.com/f-vojnovski/BmiApp)** — an ASP.NET Core API with an Angular
 client, using Identity with JWT, EF Core, AutoMapper and MediatR.
