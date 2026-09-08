@@ -14,25 +14,36 @@ filtered and normalized out of Wikidata. Live and playable.
 Vulkan renderer, written for my graduation thesis. Entity component system, platform
 abstraction layer, model and texture loading.
 
+**[AskForHelp](https://github.com/f-vojnovski/AskForHelp)** — an Android app for finding
+community answers to household problems. Java, with Firebase handling authentication,
+storage and data, an Algolia index for search, image uploads, and location-based features.
+Tested on real devices.
+
+**[KrimeRPG](https://github.com/f-vojnovski/KrimeRPG)** — a crime-themed text-based RPG
+Discord bot that ran for about a year with an active player base. Python and nextcord.py,
+MongoDB for persistent player progression, and a Flask endpoint pinged by UptimeRobot to
+keep it alive on Replit's one-hour idle shutdown.
+
 **[Document Timestamping](https://github.com/f-vojnovski/document-timestamping)** — a Java
 Spring service that produces cryptographic proof a document existed in its original form
 at a given point in time, verifiable without the server.
 
-**[BMI App](https://github.com/f-vojnovski/BmiApp)** — an ASP.NET Core API with an Angular
-client, using Identity with JWT, EF Core, AutoMapper and MediatR.
-
 **[3D Shop](https://github.com/f-vojnovski/3d-shop)** — a marketplace for 3D models with
-in-browser previews, built on React Three Fiber and Laravel.
+in-browser previews. Laravel and SQLite behind React, Redux and React Three Fiber.
 
 **[Call of Bubble](https://github.com/dstojkoski/ggj)** — a Unity FPS built for Global Game
 Jam 2025. I worked on it as a developer and wrote the music.
 
-Also: **[KrimeRPG](https://github.com/f-vojnovski/KrimeRPG)**, a crime-themed Discord RPG
-bot that ran for about a year;
-**[AskForHelp](https://github.com/f-vojnovski/AskForHelp)**, an Android app built on
-Firebase and Algolia; and
-**[clientprocessingapp](https://github.com/f-vojnovski/clientprocessingapp)**, a small
-ASP.NET Core app for importing client records from XML.
+### Demos
+
+Smaller pieces built to exercise a specific stack end to end.
+
+**[BMI App](https://github.com/f-vojnovski/BmiApp)** — an ASP.NET Core API with an Angular
+client, using Identity with JWT, EF Core, AutoMapper and MediatR.
+
+**[clientprocessingapp](https://github.com/f-vojnovski/clientprocessingapp)** — an ASP.NET
+Core app that imports client records from XML, using the repository and unit of work
+patterns over EF Core.
 
 ### Working with
 
