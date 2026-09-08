@@ -22,7 +22,7 @@ at a given point in time.
 in-browser previews, built on React Three Fiber and Laravel.
 
 **[Call of Bubble](https://github.com/dstojkoski/ggj)** — a Unity FPS built for Global Game
-Jam 2025, where I was lead programmer as well as audio engineer and composer.
+Jam 2025. I worked on it as a developer and wrote the music.
 
 ### Working with
 
